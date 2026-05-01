@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**Philip-Henry/Philip-Henry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Philip-Henry**, a tech lead.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 Exploring new technologies
+- 🌱 Always learning new things
+- 🛠️ Build small, ship often
+- 👯 Looking to collaborate on open source
+- 🧠 Lifelong learner
+
+## Tech
+
+`C#` `Express` `Bun` `Node.js` `Nim`
+
+---
+
+_Vscode addict._
